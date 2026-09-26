@@ -1,7 +1,5 @@
 # WordPress on AWS EC2 - Security Hardening Project
 
-> **Cloud Architecture and Security | NCI MSc Cyber Security | MSCCYB1_A**
-
 A fully hardened WordPress deployment on AWS EC2, secured across three layers: **Network -> Application -> Observability**.
 
 ---
@@ -91,10 +89,3 @@ wp-config.php hardening:
 - screenshots/ - Evidence appendices A through M
 
 ---
-
-## Team
-- Udhaya Kumar Palani - Infrastructure Lead
-- Aravind - Application Security and Live Demo
-- Arun - Testing and Monitoring
-
-NCI MSc Cyber Security - Cloud Architecture and Security CA - 2025
